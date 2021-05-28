@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgb(184, 124, 166);
+  
+    
+}
+h1{
+    text-align: center;
+    margin-top: 40px;
+}
+div{
+  margin-left: 30%;
+   margin-top: 100px;
+}
+#red{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    font-size: 50px;
+
+}
+#blue{
+    width: 200px;
+    height: 200px;
+    background-color:blue;
+    font-size: 50px;
+}
+#green{
+    width: 200px;
+    height: 200px;
+    background-color:green;
+    font-size: 50px;
+}
